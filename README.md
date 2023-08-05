@@ -40,10 +40,21 @@ forward to the demodulation step.
 ## Decoding
 * Take the received string of bits, and byte by byte, check if the parity is consistent, and take the appropriate action
 * Convert the bit-stream back into a string of characters, and display the same
-  
  <img src="https://github.com/Dhruv-Punia/MATLAB-OOK-FSK-Modulation-with-Parity-Check/blob/main/images/decoding 1.gif" alt="image"  height="auto">
  
 * User can also choose the function to randomly flip bits in the generated bit-stream to verify that the parity check works
 * The parity encoding scheme is not all-powerful,if two data bits are corrupted,parity will not detect the error
   
  <img src="https://github.com/Dhruv-Punia/MATLAB-OOK-FSK-Modulation-with-Parity-Check/blob/main/images/decoding 2.gif" alt="image"  height="auto">
+
+ 
+## Authors
+[![][1.1]][1] **Dhruv Punia**
+
+
+  
+ [1.1]: https://github.com/Dhruv-Punia/MATLAB-OOK-FSK-Modulation-with-Parity-Check/blob/main/images/logo1.png
+ [1]: https://www.linkedin.com/in/dhruvpunia/
+
+
+ 
