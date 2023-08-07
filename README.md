@@ -1,5 +1,5 @@
 # MATLAB OOK & FSK Modulation with Parity Check
-An end-to-end communication protocol written in MATLAB utilizing On-Off Keying and Frequency Shift Keying modulation and demodulation. The protocol also includes parity error detection to enhance redundancy and incorporates gaussian noise to mimic real-life transmission conditions
+An end-to-end communication protocol written in MATLAB utilizing On-Off Keying and Frequency Shift Keying modulation and demodulation. The protocol also includes parity error detection to enhance redundancy and incorporates gaussian noise to mimic real-life transmission conditions.
 
 <img src="https://github.com/Dhruv-Punia/MATLAB-OOK-FSK-Modulation-with-Parity-Check/blob/main/images/full.gif" alt="image"  height="auto">
 
